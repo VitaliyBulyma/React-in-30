@@ -1,3 +1,7 @@
+# Todo App
+  Followed the tutorial [Found Here](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=1068s)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
